@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UniverseApp</string>
+    <string name="authors"><![CDATA[Castillo & Gutiérrez]]></string>
+    <string name="title">UNIVERSE APP</string>
+    <string name="mainTitle">Más allá de nuestro planeta</string>
+    <string name="description">Mientras que la Tierra es nuestro hogar, el sistema solar se extiende mucho más allá, abarcando una rica variedad de planetas y otros cuerpos celestes. La exploración en curso por parte de naves espaciales y telescopios sigue revelando nuevas maravillas y profundizando nuestra comprensión del universo.</string>
+    <string name="type">Tipo de planeta: </string>
+    <string name="Description">Descripción: </string>
+    <string name="mass">Masa del planeta: </string>
+    <string name="diameter">Diámetro del planeta: </string>
+    <string name="gravity">Gravedad en el planeta: </string>
+    <string name="rotation">Tiempo de rotación: </string>
+    <string name="traslation">Tiempo de traslación: </string>
+    <string name="distance">Distancia del sol: </string>
+    <string name="moons">Número de lunas: </string>
+    <string name="trialDesc">Marte es el cuarto planeta del sistema solar y el último de los planetas rocosos. Es un mundo desértico y frío, con una atmósfera delgada compuesta por dióxido de carbono y nitrógeno, y una superficie marcada por cráteres, valles, montañas y dunas.</string>
+</resources>
